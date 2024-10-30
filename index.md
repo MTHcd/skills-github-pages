@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: python scripting for automation tutorials
 ---
 
